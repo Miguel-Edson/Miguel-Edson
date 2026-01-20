@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./cover.png" alt="Profile Header" width="600px">
+  <img src="./cover.png" alt="Profile Header" width="full">
 </div>
 
 # Hey there! I'm Miguel. 👋
